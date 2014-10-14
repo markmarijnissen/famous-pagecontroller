@@ -1,0 +1,22 @@
+{
+  "name": "famous-pagecontroller",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/markmarijnissen/famous-pagecontroller",
+  "authors": [
+    "Mark Marijnissen <markmarijnissen@gmail.com>"
+  ],
+  "description": "Famo.us RenderController extended with named nodes",
+  "keywords": [
+    "famous",
+    "rendercontroller"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
